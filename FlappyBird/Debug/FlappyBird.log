@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\administrator\desktop\mytona_test\flappybird\flappybird\main.cpp(19): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\administrator\desktop\mytona_test\flappybird\flappybird\main.cpp(19): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+c:\users\administrator\desktop\mytona_test\flappybird\flappybird\main.cpp(476): warning C4244: 'argument': conversion from 'const int' to 'GLfloat', possible loss of data
+  LINK : C:\Users\Administrator\Desktop\MYTONA_test\FlappyBird\Debug\FlappyBird.exe not found or not built by the last incremental link; performing full link
+  FlappyBird.vcxproj -> C:\Users\Administrator\Desktop\MYTONA_test\FlappyBird\Debug\FlappyBird.exe
+  FlappyBird.vcxproj -> C:\Users\Administrator\Desktop\MYTONA_test\FlappyBird\Debug\FlappyBird.pdb (Full PDB)
